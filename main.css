@@ -1,0 +1,38 @@
+body {
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  overflow: hidden;
+  margin: 0;
+}
+
+header{
+  background: gray;
+}
+
+header li {
+  float: right;
+  display: inline;
+}
+
+header li a {
+  display: block;
+  padding: 40px 10px;
+  text-decoration: none;
+}
+
+.logo{
+  float: left;
+}
+
+.logo a {
+  display: block;
+  text-decoration: none;
+}
+
+header li a:hover {
+  background-color: red;
+}
