@@ -23,6 +23,14 @@ li a {
 	color: white;
 }
 
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 0;
+    border: 1px solid transparent;
+}
+
+
 .navbar-inverse .navbar-nav > li > a {
 	color: #ffffff;
 	font-family: Lato;
